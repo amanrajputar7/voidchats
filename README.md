@@ -1,4 +1,4 @@
-# VoidChats — Private AI Web App
+# VoidChats - Private AI Web App
 
 > A 3-billion parameter language model running entirely in your browser.
 > Zero API calls. Zero server cost. Complete privacy.
